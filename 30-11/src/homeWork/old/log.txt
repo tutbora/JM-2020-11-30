@@ -1,0 +1,7 @@
+Date: 11/9/20     Event:  ERROR: Division on zero 
+Date: 11/9/20     Event:  ERROR: Impossible create incorrect_string
+Date: 11/9/20     Event:  ERROR: Division on zero 
+Date: 11/9/20     Event:  ERROR: Impossible create incorrect_string
+Date: 11/9/20     Event:  ERROR: Division on zero 
+Date: 11/9/20     Event:  ERROR: Division on zero 
+Date: 11/9/20     Event:  ERROR: Impossible create h
