@@ -8,7 +8,7 @@ public class GetFileName {
 
     private static final String FILENAME = getPath(Var.class) ;
 
-    static String getFilename(){return FILENAME;}
+    public static String getFilename(){return FILENAME;}
 
     @SuppressWarnings("SameParameterValue")
     private static String getPath(Class<?> aClass) {

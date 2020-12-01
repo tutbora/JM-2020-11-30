@@ -1,5 +1,7 @@
 package homeWork.old;
 
+import homeWork.calc.CalcException;
+
 import java.time.LocalDateTime;
 
 abstract class LoggerBuilder {

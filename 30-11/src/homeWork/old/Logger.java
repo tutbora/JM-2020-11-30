@@ -1,5 +1,8 @@
 package homeWork.old;
 
+import homeWork.calc.CalcException;
+import homeWork.calc.GetFileName;
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
