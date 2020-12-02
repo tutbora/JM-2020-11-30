@@ -1,4 +1,5 @@
 
+//need parameters in command line
 public class PrintArgumentMain  {
     public static void main(String[] args) {
 
